@@ -5,7 +5,10 @@
     "Emanuel Oliveira <emanuel.oliveira@nex2me.com.br>"
   ],
   "description": "Repository used as reference to Mapbox library files.",
-  "main": "",
+  "main": [
+    "mapbox-gl.js", 
+    "mapbox-gl.css"
+  ],
   "moduleType": [],
   "license": "MIT",
   "ignore": [
